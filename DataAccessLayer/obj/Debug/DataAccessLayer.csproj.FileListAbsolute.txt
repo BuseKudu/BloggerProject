@@ -47,3 +47,5 @@ C:\Users\busek\source\repos\BloggerProject\DataAccessLayer\bin\Debug\System.Valu
 C:\Users\busek\source\repos\BloggerProject\DataAccessLayer\bin\Debug\EntityLayer.dll
 C:\Users\busek\source\repos\BloggerProject\DataAccessLayer\bin\Debug\EntityLayer.pdb
 C:\Users\busek\source\repos\BloggerProject\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\busek\source\repos\BloggerProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\busek\source\repos\BloggerProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.one.resources
